@@ -8,10 +8,6 @@ A Python script using Selenium to automate LinkedIn connection requests and mess
 - [Prerequisites](#prerequisites)
 - [Getting Started](#getting-started)
   - [Installation](#installation)
-  - [Usage](#usage)
-- [Configuration](#configuration)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
@@ -33,7 +29,6 @@ Before you begin, ensure you have met the following requirements:
 
 You can install Python dependencies using `pip`:
 
-    ```bash
     pip install selenium
     pip install dotenv
 
@@ -59,3 +54,4 @@ You can install Python dependencies using `pip`:
     ```bash
     python3 run_script.py
 
+5. Sit back and relax while the script automates connection requests and messages on LinkedIn!
