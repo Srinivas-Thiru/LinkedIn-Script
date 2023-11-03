@@ -37,7 +37,7 @@ You can install Python dependencies using `pip`:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/linkedin-automation-bot.git
+   git clone https://github.com/Srinivas-Thiru/LinkedIn-Script.git
    cd linkedin-automation-bot
 
 3. Set up your environment variables in a .env file:
